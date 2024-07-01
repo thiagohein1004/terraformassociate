@@ -1,0 +1,11 @@
+AKIASUUSB2H6IIVZ45BW
+O+JrTUNdju4+lu30lYUkctZIn+UisS3wPIVavv0+
+us-west-2
+json
+
+Data Terraform
+Logs: export TF_LOG=TRACE
+
+Providers
+https://registry.terraform.io/ 
+
