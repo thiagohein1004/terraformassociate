@@ -9,3 +9,6 @@ Logs: export TF_LOG=TRACE
 Providers
 https://registry.terraform.io/ 
 
+AWS 
+thiago.heinmaga1004@gmail.com
+Onb...55
