@@ -1,0 +1,17 @@
+$ az login --service-principal -u APPID -p PASSWORD --tenant TENANTID
+[
+  {
+    "cloudName": "AzureCloud",
+    "homeTenantId": "d4c2e15c-1f04-44ff-811f-cb45f907f14d",
+    "id": "ab6d47e8-613d-4088-9161-cbd7625b3de6",
+    "isDefault": true,
+    "managedByTenants": [],
+    "name": "subscription-thiagohein",
+    "state": "Enabled",
+    "tenantId": "d4c2e15c-1f04-44ff-811f-cb45f907f14d",
+    "user": {
+      "name": "e3ae2292-abb4-466c-9633-f38562a29c92",
+      "type": "servicePrincipal"
+    }
+  }
+]
